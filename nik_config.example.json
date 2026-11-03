@@ -1,0 +1,12 @@
+{
+  "_comment": "Is file ko rename karke 'nik_config.json' kar do — bas 3 cheezein bharo",
+  "token": "123456789:AAH-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "owner_id": 123456789,
+  "sudo_ids": [111111111, 222222222],
+
+  "_optional": "neeche wale chhod bhi sakte ho",
+  "premium": true,
+  "rich": true,
+  "prefix_required": true,
+  "cluster": true
+}
